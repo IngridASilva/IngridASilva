@@ -2,7 +2,7 @@
 #### Working as a Data Analyst, my focus is on creating strategic solutions through data analysis, continually improving my skills in Microsoft tools. At the same time, I have been expanding my knowledge in Data Science, with an emphasis on Python, SQL and ETL processes, aiming to enhance insights and generate high value for the projects in which I participate.
 
 Tools and technologies that are part of my daily life: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="20" height="20">
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="20" height="20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20">
