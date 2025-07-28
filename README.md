@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ingridasilva&color=006bed)
+
 ## Hi, I'm Ingrid Araujo da Silva ✨
 #### Working as a Data Analyst, my focus is on creating strategic solutions through data analysis, continually improving my skills in Microsoft tools. At the same time, I have been expanding my knowledge in Data Science, with an emphasis on Python, SQL and ETL processes, aiming to enhance insights and generate high value for the projects in which I participate.
 
