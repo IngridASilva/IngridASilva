@@ -9,7 +9,7 @@ Tools and technologies that are part of my daily life:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20">
 
-- Participating in the Data Analytics Bootcamp Project: Institute Localiza!
+- Data Analytics Bootcamp Project: Institute Localiza!
   - For more information: https://womakerscode.org/data-analytics-instituto-localiza/
 - I'm currently in the last year of my Bachelor's degree in Economics and my TTC will be “AI in the reduction of cognitive biases (Anchoring Bias) in Brazilian consumption", with the support of Python and Machine Learning.
 
